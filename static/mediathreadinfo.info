@@ -1,0 +1,26 @@
+name = Mediathread Info
+description = A subtheme of Kalatheme made for Mediathread.info
+core = 7.x
+base theme = kalatheme
+
+stylesheets[all][] = css/custom.css
+
+
+
+features[] = logo
+features[] = slogan
+features[] = favicon
+features[] = main_menu
+features[] = secondary_menu
+features[] = footer_menu
+
+settings[responsive_toggle] = 1
+settings[pane_styles_toggle] = 1
+settings[extra_styles_toggle] = 0
+
+plugins[panels][layouts] = layouts
+plugins[panels][styles] = styles
+
+scripts[] = js/custom.js
+#scripts[] = js/matchMedia.addListener.js
+#scripts[] = js/matchMedia.js
