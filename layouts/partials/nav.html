@@ -44,7 +44,7 @@
 				</ul>
 			</li>
 			{{ $currentNode := . }}
-			{{ range Site.Menu.main }}
+			{{ range .Site.Menus.main }}
 			  {{ if .HasChildren }}
 			    <li class="dropdown clearfix">
 				    <a href="">{{ .Name }}</a>
@@ -54,14 +54,14 @@
 				    <ul class="dropdown-menu">
 	    				{{ range .Children }}
 					<li>
-						<a href="{{ .Url }}">{{ .Name }}</a>
+						<a href="{{ .URL }}">{{ .Name }}</a>
 					</li>
 	    				{{ end }}
 				   </ul>
 			   </li>
 			 {{ else }}
 			   <li class="first">
-				   <a href="{{ .Url }}" class="active">{{ .Name }}</a>
+				   <a href="{{ .URL }}" class="active">{{ .Name }}</a>
 		 	   </li>
 			 {{ end }}
 			{{ end }}
