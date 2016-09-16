@@ -20,34 +20,11 @@
          </div>
          <h2 class="element-invisible">Main menu</h2>
 	 	<ul class="inline nav navbar-nav" id="main-menu">
-			<li class="1018 first active">
-			 	<a href="/" class="active">Home</a>
-		 	</li>
-		 	<li class="1078 dropdown clearfix">
-				<a href="/content/about-mediathread">About</a>
-				<a href="#" class="dropdown-toggle" data-toggle="dropdown">
-					<span class="caret"></span>
-				</a>
-				<ul class="dropdown-menu">
-					<li class="1072 first">
-						<a href="/content/about-mediathread">About Mediathread</a>
-					</li>
-					<li class="1137">
-						<a href="/content/watch-video">Watch the Video</a>
-					</li>
-					<li class="1135">
-						<a href="/content/cases-columbia">Cases</a>
-					</li>
-					<li class="1084 last">
-						<a href="/content/research">Research</a>
-					</li>
-				</ul>
-			</li>
 			{{ $currentNode := . }}
 			{{ range .Site.Menus.main }}
 			  {{ if .HasChildren }}
 			    <li class="dropdown clearfix">
-				    <a href="">{{ .Name }}</a>
+				    <a href="#">{{ .Name }}</a>
 				    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
 					<span class="caret"></span>
 				    </a>
