@@ -14,7 +14,6 @@ meth.build_news_feed = function() {
   var feedMarkup = "";
 
   $.getJSON("http://ctl.columbia.edu/tag/mediathread/?feed=json&jsonp=?", function (data) {
-    console.log(data);
     $.each(data, function (i, newsItem) {
       // remove time from date string
       newsItem.date = newsItem.date.replace(/\s\d{2}\:\d{2}/, "");
