@@ -20,7 +20,7 @@
          </div>
          <h2 class="element-invisible">Main menu</h2>
 	 	<ul class="inline nav navbar-nav" id="main-menu">
-			{{ $currentNode := . }}
+		{{ $currentNode := . }}
 			{{ range .Site.Menus.main }}
 			  {{ if .HasChildren }}
 			    <li class="dropdown clearfix">
