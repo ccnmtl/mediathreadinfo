@@ -1,0 +1,35 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Mediathread Info"
+metaDataFormat = "yaml"
+[[menu.main]]
+  name = "home"
+  weight = 0
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "about"
+  weight = 1
+  identifier = "about"
+  url = "#"
+
+[[menu.main]]
+  name = "get started"
+  weight = 2
+  identifier = "get started"
+  url = "#"
+
+[[menu.main]]
+  name = "get involved"
+  weight = 3
+  identifier = "get involved"
+  url = "#"
+
+[[menu.main]]
+  name = "faq"
+  weight = 4
+  identifier = "faq"
+  url = "#"
+
+
