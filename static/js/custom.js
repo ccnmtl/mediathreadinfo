@@ -18,27 +18,27 @@ meth.build_news_feed = function() {
             // remove time from date string
             newsItem.date = newsItem.date.replace(/\s\d{2}\:\d{2}/, "");
 
-            feedMarkup += `<div class='views-row'>
-              <div class='views-field views-field-title-1'>
-                <span class='field-content'>${newsItem.title}</span>
-              </div>
-              <div class='views-field views-field-url-1'>
-                <span class='field-content'>
-                  <a href='${newsItem.permalink}'><h3>${newsItem.title}</h3></a>
-                </span>
-              </div>
-              <div class='views-field views-field-created'>
-                <span class='field-content'>${newsItem.date}</span>
-              </div>
-              <div class='views-field views-field-field-feed-item-description'>
-                <div class='field-content'>${newsItem.excerpt}</div>
-              </div>
-              <div class='views-field views-field-url'>
-                <span class='field-content read-more'>
-                  <a href='${newsItem.permalink}'>Read More</a>
-                </span>
-              </div>
-            </div>`;
+            feedMarkup += "<div class='views-row'>";
+            feedMarkup += "  <div class='views-field views-field-title-1'>";
+            feedMarkup += "    <span class='field-content'>" + newsItem.title + "</span>";
+            feedMarkup += "  </div>";
+            feedMarkup += "  <div class='views-field views-field-url-1'>";
+            feedMarkup += "    <span class='field-content'>"
+            feedMarkup += "      <a href='" + newsItem.permalink + "'><h3>" + newsItem.title + "</h3></a>"
+            feedMarkup += "    </span>";
+            feedMarkup += "  </div>";
+            feedMarkup += "  <div class='views-field views-field-created'>";
+            feedMarkup += "    <span class='field-content'>" + newsItem.date + "</span>";
+            feedMarkup += "  </div>";
+            feedMarkup += "  <div class='views-field views-field-field-feed-item-description'>";
+            feedMarkup += "    <div class='field-content'>" + newsItem.excerpt + "</div>";
+            feedMarkup += "  </div>";
+            feedMarkup += "  <div class='views-field views-field-url'>";
+            feedMarkup += "    <span class='field-content read-more'>"
+            feedMarkup += "      <a href='" + newsItem.permalink + "'>Read More</a>"
+            feedMarkup += "    </span>";
+            feedMarkup += "  </div>";
+            feedMarkup += "</div>";
         })
         $(".view-id-mediathread_news .view-content").append(feedMarkup);
     });
