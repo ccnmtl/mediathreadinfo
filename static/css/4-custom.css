@@ -1524,10 +1524,7 @@ a:hover > span.get-started-button {
 
 .header-faq .pane-content a:hover {
     text-decoration: none;
-}	
-
-
-
+}
 
 /*Footer*/
 #footerlower {
@@ -1547,4 +1544,19 @@ a:hover > span.get-started-button {
     color: #777;
     text-align: right;
     padding: 45px 0 0 0;
+}
+
+/* fix columns on about page */
+.panels-flexible-column-first {
+    float: left;
+    width: 49%;
+}
+
+.panels-flexible-column-last {
+    float: right;
+    width: 49%;
+}
+
+.panel-flexible-inside img {
+    max-width: 100%;
 }
