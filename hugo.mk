@@ -1,4 +1,5 @@
-HUGO ?= /usr/local/bin/hugo
+# VERSION=1.0.0
+HUGO ?= `which hugo`
 S3CMD ?= s3cmd
 PUBLIC ?= public
 DRAFT_FLAGS ?= --buildDrafts --verboseLog=true -v
@@ -10,11 +11,6 @@ runserver:
 	$(HUGO) $(DRAFT_FLAGS) \
 	&& $(INTERMEDIATE_STEPS) \
 	&& $(HUGO) server --watch $(DRAFT_FLAGS) --pluralizeListTitles=false
-
-docker-compose-runserver:
-	$(HUGO) $(DRAFT_FLAGS) \
-	&& $(INTERMEDIATE_STEPS) \
-	&& $(HUGO) server --watch $(DRAFT_FLAGS) --pluralizeListTitles=false --bind=0.0.0.0
 
 deploy-stage:
 	rm -rf $(PUBLIC)/*
