@@ -4,32 +4,37 @@ title = "Mediathread Info"
 metaDataFormat = "yaml"
 [[menu.main]]
   name = "home"
-  weight = 0
+  weight = 1
   identifier = "home"
   url = "/"
 
 [[menu.main]]
   name = "about"
-  weight = 1
+  weight = 2
   identifier = "about"
   url = "#"
 
 [[menu.main]]
   name = "get started"
-  weight = 2
+  weight = 3
   identifier = "get started"
   url = "#"
 
 [[menu.main]]
+  name = "Sign in @ Columbia"
+  parent = "get started"
+  weight = 1
+  identifier = "sign in at columbia"
+  url = "https://mediathread.ccnmtl.columbia.edu/"
+
+[[menu.main]]
   name = "get involved"
-  weight = 3
+  weight = 4
   identifier = "get involved"
   url = "#"
 
 [[menu.main]]
   name = "faq"
-  weight = 4
+  weight = 5
   identifier = "faq"
-  url = "#"
-
-
+  url = "/faq"
