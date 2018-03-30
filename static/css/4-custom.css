@@ -1118,8 +1118,19 @@ padding: 125px 10px;}
     width: 75%;
 }
 
-.panels-flexible-column-mediathread_tour_page-17{
-    float: right;
+.panels-flexible-row-mediathread_tour_page-1-inside {
+    display: flex;
+}
+
+.panels-flexible-column-mediathread_tour_page-17 {
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.panels-flexible-column-mediathread_tour_page-9 {
+    float: left !important;
 }
 
 

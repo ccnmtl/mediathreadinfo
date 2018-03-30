@@ -169,7 +169,7 @@ menu:
                     <div class="inside panels-flexible-region-inside panels-flexible-region-mediathread_tour_page-row_1_col_2-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
                         <div class="panel-pane pane-custom pane-1 button-pane" >
                             <div class="pane-content">
-                                <a href="/content/request-access" class="btn btn-lg btn-success">Try Mediathread</a>  </div>
+                                <a href="/request-access" class="btn btn-lg btn-success">Try Mediathread</a>  </div>
                         </div>
                     </div>
                 </div>
