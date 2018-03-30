@@ -15,6 +15,7 @@ meth.build_news_feed = function() {
 
     $.getJSON("http://ctl.columbia.edu/tag/mediathread/?feed=json&jsonp=?", function (data) {
         $.each(data, function (i, newsItem) {
+            if (newsItem.excerpt) {
             // remove time from date string
             newsItem.date = newsItem.date.replace(/\s\d{2}\:\d{2}/, "");
 
@@ -39,6 +40,7 @@ meth.build_news_feed = function() {
             feedMarkup += "    </span>";
             feedMarkup += "  </div>";
             feedMarkup += "</div>";
+            }
         })
         $(".view-id-mediathread_news .view-content").append(feedMarkup);
     });

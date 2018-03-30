@@ -1027,6 +1027,10 @@ padding: 125px 10px;}
     font-size: .875em;
 }
 
+.view-mediathread-news .views-field-url-1 {
+    width: 196px;
+}
+
 /*Tweets*/
 
 .tweeting table {
