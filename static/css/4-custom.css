@@ -1326,6 +1326,12 @@ p.research {
     display: none;
 }
 
+img.cases-image {
+    float: left;
+    margin-right: 1.5em !important;
+    margin-bottom: 1.5em !important;
+}
+
 /*Columbia Case page*/
 .header-case.columbia {
     background: url('../images/header-case-columbia.png') center;
