@@ -20,6 +20,6 @@ menu:
 <div class="panel-pane pane-fieldable-panels-pane pane-uuid-d891fcc2-1a4e-463b-a2e5-ede6298a5636 code-header pane-bundle-text">
 <div class="pane-content">
 <div class="fieldable-panels-pane">
-<div class="field field-name-field-basic-text-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><h2>Download or clone the Mediathread code from GitHub to install and run at your institution.</h2><p><a href="https://github.com/ccnmtl/mediathread" target="_blank" class="btn btn-lg btn-warning"><img height="45" width="45" class="media-element file-default" src="http://mediathread.info/sites/default/files/threads.png" alt="" title="">Get the code at GitHub</a></p></div></div></div></div>
+<div class="field field-name-field-basic-text-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><h2>Download or clone the Mediathread code from GitHub to install and run at your institution.</h2><p><a href="https://github.com/ccnmtl/mediathread" target="_blank" class="btn btn-lg btn-warning"><img height="45" width="45" class="media-element file-default mediathread-logo" src="/images/threads.png" alt="" title="">Get the code at GitHub</a></p></div></div></div></div>
 </div>
 </div>
