@@ -1332,6 +1332,28 @@ img.cases-image {
     margin-bottom: 1.5em !important;
 }
 
+/* Cases header image */
+.panels-flexible-row-mediathread_tour_page-28 {
+    margin-bottom: 1em;
+}
+
+/* Collections */
+.collections-image {
+    float: left;
+    margin-right: 1.5em !important;
+    margin-bottom: 1.5em !important;
+}
+
+.mediathread-logo {
+    box-shadow: none !important;
+}
+
+/* Instructors */
+.instructor-lblock {
+    float: left;
+    width: 50%;
+}
+
 /*Columbia Case page*/
 .header-case.columbia {
     background: url('../images/header-case-columbia.png') center;
@@ -1442,7 +1464,7 @@ a:hover > span.get-started-button {
 }
 
 .code-ccnmtl {
-    padding: 3em 0 .5em 3em;
+    padding: 1em 0em;
 }
 
 .code-ccnmtl img {

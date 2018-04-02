@@ -26,7 +26,7 @@ menu:
 <section class="section">
 <div class="container">  
 <div class="sutro-container sutro-column-content clearfix row-fluid">
-<div class="sutro-column-content-region sutro-column1 sutro-column panel-panel span6">
+<div class="sutro-column-content-region sutro-column1 sutro-column panel-panel span6 instructor-lblock">
 <div class="sutro-column-content-region-inner sutro-column1-inner sutro-column-inner panel-panel-inner">
 <div class="panel-pane pane-fieldable-panels-pane pane-fpid-38 code-ccnmtl pane-bundle-text">
 
