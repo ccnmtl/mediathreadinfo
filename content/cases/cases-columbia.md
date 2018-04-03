@@ -76,7 +76,7 @@ menu:
 </div>
 </div><div class="field-item odd">
 
-<img height="147" width="240" class="panopoly-image-quarter media-element file-teaser panopoly-image-quarter cases-image" src="http://mediathread.info/sites/default/files/styles/panopoly_image_quarter/public/case-sswroleplay.jpg?itok=UXwlOEfb" alt="" title="">
+<img height="147" width="240" class="panopoly-image-quarter media-element file-teaser panopoly-image-quarter cases-image" src="/images/case-sswroleplay.jpg?itok=UXwlOEfb" alt="" title="">
 <h3 style="text-align:left">Social Work at Columbia University</h3>
 <div>
 <p style="text-align:left"><strong>Example</strong>: Clinical training for Social Work students<br><strong>Course</strong>:&nbsp;Foundations of Social Work, Social Work Practice II<br><strong>Department</strong>:&nbsp;School of Social Work<br><strong>Instructor</strong>:&nbsp;Various</p>
@@ -85,7 +85,7 @@ menu:
 </div>
 </div><div class="field-item even">
 
-<img height="126" width="240" class="panopoly-image-quarter media-element file-teaser panopoly-image-quarter cases-image" src="http://mediathread.info/sites/default/files/styles/panopoly_image_quarter/public/case-film.jpg?itok=QYsMb_Te" alt="" title="">
+<img height="126" width="240" class="panopoly-image-quarter media-element file-teaser panopoly-image-quarter cases-image" src="/images/case-film.jpg" alt="" title="">
 <h3>Film, Television, and Cultural Studies at Barnard College</h3>
 <p><strong>Course</strong>:&nbsp;Projecting the American Empire on Film<br><strong>Department</strong>:&nbsp;History, Barnard College<br><strong>Instructor</strong>:&nbsp;Seth Fein</p>
 <p><strong>Background</strong>:&nbsp;"Projecting the American Empire on Film" is a course at Barnard College for upper-level undergraduate and graduate students in the History department. The course explores the connection of audiovisual mass culture to the rise of the United States as a world power. Class readings and more than twenty films from the 1920's through the 1950's portray varying ideologies and help students deepen their understanding of historical contexts. Mediathread is used for a series of close reading exercises of film footage.</p>
