@@ -6,10 +6,10 @@ DRAFT_FLAGS ?= --buildDrafts --verboseLog=true -v
 PROD_FLAGS ?= -s .
 S3_FLAGS ?= --acl-public --delete-removed --no-progress --no-mime-magic --guess-mime-type
 INTERMEDIATE_STEPS ?= echo nothing
-STAGING_BUCKET ?= stage.mediathread.info
+STAGING_URL=https://mediathreadinfo.stage.ctl.columbia.edu/
+PROD_URL=https://mediathread.info
+STAGING_BUCKET ?= mediathreadinfo.stage.ctl.columbia.edu
 PROD_BUCKET ?= mediathread.info
-STAGING_URL ?= stage.mediathread.info
-PROD_URL ?= mediathread.info
 
 runserver:
 	$(HUGO) $(DRAFT_FLAGS) \
