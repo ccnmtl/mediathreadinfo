@@ -34,7 +34,7 @@ menu:
 
 <div class="pane-content">
 <div class="fieldable-panels-pane">
-<div class="field field-name-field-basic-text-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="http://ccnmtl.columbia.edu/our_services/tools/mediathread/" target="_blank" class="btn btn-lg btn-primary">Columbia Faculty? Get started here. </a></p><p style="text-align: right;"><a href="/sb/rwhite/drupal7_mediathread_info/node/5">&nbsp;</a></p><p><img height="65" width="65" style="float: left;" class="media-element file-default" src="http://mediathread.info/sites/default/files/ccnmtl-c.png" alt="" title=""></p><h2 class="code-ccnmtl">Mediathread was developed at the <a href="http://ccnmtl.columbia.edu" target="_blank">Columbia Center for New Media Teaching and Learning</a>. CCNMTL offers Columbia faculty assistance setting up Mediathread accounts for classes and research.</h2></div></div></div></div>
+<div class="field field-name-field-basic-text-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="http://ccnmtl.columbia.edu/our_services/tools/mediathread/" target="_blank" class="btn btn-lg btn-primary">Columbia Faculty? Get started here. </a></p><p style="text-align: right;"><a href="/sb/rwhite/drupal7_mediathread_info/node/5">&nbsp;</a></p><p><img height="65" width="65" style="float: left;" class="media-element file-default" src="/images/ccnmtl-c.png" alt="" title=""></p><h2 class="code-ccnmtl">Mediathread was developed at the <a href="http://ccnmtl.columbia.edu" target="_blank">Columbia Center for New Media Teaching and Learning</a>. CCNMTL offers Columbia faculty assistance setting up Mediathread accounts for classes and research.</h2></div></div></div></div>
 </div>
 
 
@@ -49,7 +49,7 @@ menu:
 
 <div class="pane-content">
 <div class="fieldable-panels-pane">
-<div class="field field-name-field-basic-text-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><img height="316" width="475" class="media-element file-default" src="http://mediathread.info/sites/default/files/code-ccnmtl.png" alt="" title=""></p></div></div></div></div>
+<div class="field field-name-field-basic-text-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><img height="316" width="475" class="media-element file-default" src="/images/code-ccnmtl.png" alt="" title=""></p></div></div></div></div>
 </div>
 
 

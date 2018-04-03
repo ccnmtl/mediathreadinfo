@@ -67,7 +67,7 @@ menu:
                         <div class="panel-pane pane-fieldable-panels-pane pane-fpid-16 pane-bundle-image" >
                             <div class="pane-content">
                                 <div class="fieldable-panels-pane">
-                                    <div class="field field-name-field-basic-image-caption field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img class="media-element file-default" src="http://mediathread.info/sites/default/files/what-collect_0.png" alt="" title="" /></p>
+                                    <div class="field field-name-field-basic-image-caption field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img class="media-element file-default" src="/images/what-collect_0.png" alt="" title="" /></p>
                                             </div></div></div></div>
                             </div>
                         </div>
@@ -86,7 +86,7 @@ menu:
                         <div class="panel-pane pane-fieldable-panels-pane pane-fpid-24 pane-bundle-image" >
                             <div class="pane-content">
                                 <div class="fieldable-panels-pane">
-                                    <div class="field field-name-field-basic-image-caption field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img class="media-element file-default" src="http://mediathread.info/sites/default/files/what-selection.png" alt="" title="" /></p>
+                                    <div class="field field-name-field-basic-image-caption field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img class="media-element file-default" src="/images/what-selection.png" alt="" title="" /></p>
                                             </div></div></div></div>
                             </div>
                         </div>
@@ -136,7 +136,7 @@ menu:
                         <div class="panel-pane pane-fieldable-panels-pane pane-fpid-28 pane-bundle-image" >
                             <div class="pane-content">
                                 <div class="fieldable-panels-pane">
-                                    <div class="field field-name-field-basic-image-caption field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img class="media-element file-default" src="http://mediathread.info/sites/default/files/what-essay_0.png" alt="" title="" /></p>
+                                    <div class="field field-name-field-basic-image-caption field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><img class="media-element file-default" src="/images/what-essay_0.png" alt="" title="" /></p>
                                             </div></div></div></div>
                             </div>
                         </div>
