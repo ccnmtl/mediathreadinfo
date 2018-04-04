@@ -40,7 +40,7 @@ menu:
 
 
 <div class="pane-content">
-<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Mediathread was conceived and developed by <a href="http://ccnmtl.columbia.edu" target="_blank">Columbia University’s Center for New Media for Teaching and Learning (CCNMTL)</a>. It incorporates elements of CCNMTL media annotation projects over the span of 15 years, including Project Vietnam (funded by IMLS), Video Interactions for Teaching and Learning (funded by NSF), and the Image Annotation Tool.</p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Mediathread was conceived and developed by <a href="https://ctl.columbia.edu" target="_blank">Columbia University’s Center for Teaching and Learning (CCNMTL)</a>. It incorporates elements of CCNMTL media annotation projects over the span of 15 years, including Project Vietnam (funded by IMLS), Video Interactions for Teaching and Learning (funded by NSF), and the Image Annotation Tool.</p>
 <p>Launched at Columbia in 2010, Mediathread has now been used in over 300 courses across a wide range of subject domains, including Social Work, Journalism, East Asian Studies, Art History, Film Studies, History, Public Health, Education, and English.</p>
 </div></div></div>  </div>
 
