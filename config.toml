@@ -1,4 +1,4 @@
-baseurl = "http://mediathread.info/"
+baseurl = "https://mediathread.info/"
 languageCode = "en-us"
 title = "Mediathread Info"
 metaDataFormat = "yaml"

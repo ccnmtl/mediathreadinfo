@@ -34,7 +34,7 @@ menu:
 
 <div class="pane-content">
 <div class="fieldable-panels-pane">
-<div class="field field-name-field-basic-text-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="https://ctl.columbia.edu/support/educational-technologies/mediathread/" target="_blank" class="btn btn-lg btn-primary">Columbia Faculty? Get started here. </a></p><p style="text-align: right;"><a href="/cases/cases-columbia/">&nbsp;</a></p><p><img height="65" width="65" style="float: left;" class="media-element file-default" src="/images/ccnmtl-c.png" alt="" title=""></p><h2 class="code-ccnmtl">Mediathread was developed at the <a href="http://ctl.columbia.edu" target="_blank">Columbia Center for and Learning</a>. CTL offers Columbia faculty assistance setting up Mediathread accounts for classes and research.</h2></div></div></div></div>
+<div class="field field-name-field-basic-text-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="https://ctl.columbia.edu/support/educational-technologies/mediathread/" target="_blank" class="btn btn-lg btn-primary">Columbia Faculty? Get started here. </a></p><p style="text-align: right;"><a href="/cases/cases-columbia/">&nbsp;</a></p><p><img height="65" width="65" style="float: left;" class="media-element file-default" src="/images/ccnmtl-c.png" alt="" title=""></p><h2 class="code-ccnmtl">Mediathread was developed at the <a href="https://ctl.columbia.edu" target="_blank">Columbia Center for and Learning</a>. CTL offers Columbia faculty assistance setting up Mediathread accounts for classes and research.</h2></div></div></div></div>
 </div>
 
 

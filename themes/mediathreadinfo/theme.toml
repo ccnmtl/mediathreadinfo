@@ -3,9 +3,9 @@
 
 name = "Mediathreadinfo"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE.md"
+licenselink = "https://github.com/ccnmtl/mediathreadinfo"
 description = ""
-homepage = "http://siteforthistheme.com/"
+homepage = "https://mediathread.info"
 tags = ["", ""]
 features = ["", ""]
 min_version = 0.15
