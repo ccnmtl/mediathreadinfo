@@ -13,7 +13,7 @@ meth.bootstrap_drop_menu = function(){
 meth.build_news_feed = function() {
     var feedMarkup = "";
 
-    $.getJSON("http://ctl.columbia.edu/tag/mediathread/?feed=json&jsonp=?", function (data) {
+    $.getJSON("https://ctl.columbia.edu/tag/mediathread/?feed=json&jsonp=?", function (data) {
         $.each(data, function (i, newsItem) {
             if (newsItem.excerpt) {
             // remove time from date string
