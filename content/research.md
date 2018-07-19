@@ -1,5 +1,5 @@
 ---
-title: "Reasearch"
+title: "Research"
 backgroundImage: "header-research.png"
 menu:
   main:
